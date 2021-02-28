@@ -21,8 +21,8 @@ Server will be running on: http://localhost:3200
 
 Open new terminal and run below commands to start angular app,
 
-cd angular-app
-npm i
-npm start
+* cd angular-app
+* npm i
+* npm start
 
 Application will be running on: http://localhost:4200
