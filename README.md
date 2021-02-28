@@ -11,9 +11,9 @@ Else please change the mongodb url in node-express-api/config/config.js
 
 Open the terminal and run below commands to start the server
 
-cd node-express-api
-npm i
-npm start
+* cd node-express-api
+* npm i
+* npm start
 
 Server will be running on: http://localhost:3200
 
